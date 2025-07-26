@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unexms.github.io/netflix-clone/sitemap.xml
